@@ -16,4 +16,4 @@ BCNS is a collection of BFS and Random Walk network samples of collaborative fil
 * Make an RDS-like sample from Random3
 * Save physical and electronic components in different files (BFS and complete)
 * Save as edgelist file + attribute file with one line for each node
-* Starter Directions for UCINET and PAJEK
+* Starter Directions for Excel, UCINET, PAJEK (txt2pajek)
