@@ -1,6 +1,6 @@
 # About #
 
-BCNS is a collection of BFS and Random Walk network samples of collaborative filtering recommendations from the Amazon.com U.S. site collected in February 2014. This repository includes data and an R script to import the data as network object using the sna package. It may be expanded to include other statistical or programming languages if there is sufficient demand. Please send a pull request if there are specific operations or languages you would like to see added.
+BCNS is a collection of BFS and Random Walk network samples of collaborative filtering recommendations from the Amazon.com U.S. site collected in February 2014. This repository includes data and an R script to import the data as network object using the sna package. It may be expanded to include other statistical or programming languages if there is sufficient demand. Please send a pull request if there are specific operations or languages you would like to see added in the near future. Note that the current version of NodeXL does not handle this size of network.
 
 * Authors: Nathaniel D. Porter and Muhammed Idris
 * Language: R-statistics
@@ -15,7 +15,6 @@ BCNS is a collection of BFS and Random Walk network samples of collaborative fil
 * complete.tsv all unique edges present in previous four files
 
 # To-Do List: #
-* Import as an R dataframe
 * Remove duplicate edges
 * Symmetrize and remove duplicate edges
 * Make an RDS-like sample from Random3
