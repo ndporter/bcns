@@ -11,7 +11,7 @@
 
 #BFS - Import Breadth-First Sample into R#
 ###I NEED TO UPDATE THIS TO REFLECT A URL###
-bfs <- read.delim("E:/Users/ndporter/Documents/Box Sync/Connections AMZ Data/Data/Current Files/bfs.tsv") #read as flat table
+bfs <- read.delim("https://github.com/ndporter/bcns/raw/master/bfs.tsv") #read as flat table
 bfsedge <- bfs[1:2] #create edgelist
 
 #Put into network format
